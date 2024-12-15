@@ -2,15 +2,13 @@ package StepDefinations;
 
 
 import Pages.LoginPage;
-import io.cucumber.java.*;
 import io.cucumber.java.en.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 
-public class ValidLoginTest {
+public class InvalidLoginTest {
     private WebDriver driver;
-//    private LoginPage loginPage;
 
 
 
